@@ -1,3 +1,2 @@
 $Read me
-
-this is supposed to be on the master and now updated
+ this is the branched master.txt file
